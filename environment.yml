@@ -1,5 +1,6 @@
 dependencies:
   - bokeh=1.4.0
+  - datashader
   - pandas
   - scipy
   - panel
